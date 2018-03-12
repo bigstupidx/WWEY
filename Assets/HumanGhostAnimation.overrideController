@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: HumanGhostAnimation
+  m_Controller: {fileID: 9100000, guid: a3c5de7c7386f43618e2c1d042b830e6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 610d6f731e2eb409a9343ff2c6c1ba3d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 975089faf12594044a0e460d45774b2b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2c75378315d274a9286baf327a71dec3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2c75378315d274a9286baf327a71dec3, type: 2}
